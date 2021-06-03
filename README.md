@@ -15,10 +15,12 @@ I would like to compare % of students passing College Board benchmarks by county
 **raw data**: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2016-17&cCat=Dropouts&cPage=filesdropouts  
 **data layout**: https://www.cde.ca.gov/ds/ad/fsdropouts.asp
 
-I would like to compare dropout rates by County, as well as when drop out rates are occuring (9th, 10th, 11th, or 12th). My hypothesis tests would focus on these rates. In addition, I would like to examine demographic information and any trends there. I would avoid conducting hypothesis tests on demographic information at this point in my data science career.
+I would like to compare dropout rates by county, as well as when drop out rates are occuring (9th, 10th, 11th, or 12th). My hypothesis tests would focus on these rates. In addition, I would like to examine demographic information and any trends there. I would avoid conducting hypothesis tests on demographic information at this point in my data science career.
 
 
 ### Tertiary
 **CA AP scores for 2019-2020**  
-**raw data**: http://www3.cde.ca.gov/researchfiles/satactap/ap20.txt
-**data layout**: https://www.cde.ca.gov/ds/sp/ai/reclayoutap20.asp
+**raw data**: http://www3.cde.ca.gov/researchfiles/satactap/ap20.txt  
+**data layout**: https://www.cde.ca.gov/ds/sp/ai/reclayoutap20.asp  
+
+I would like to look at AP scores by county/high school. My hypothesis test would be the rate of getting a passing score (3 or higher). I would also be curious to examine demographic data of those who pass the test/don't pass the test.
