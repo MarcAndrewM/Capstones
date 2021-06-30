@@ -19,7 +19,9 @@ I would like to examine this 7K row by 150 col data set to classify if a college
 **data**: https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/    
 This data has 7K rows and four cols and declares if an artcile is fake. I would like to develop a model to test on real world stories and fakes.
     
-    
+<br>
+<br>    
+
 ## <p align="center">Capstone 1</p>
 All of the below data sets come from the California Deparment of Education Data and Statistics Division, https://www.cde.ca.gov/ds/. For this capstone, I would like to become familiar with education data sets and better understand how to analyze them. As a California native who volunteers at a high school, I hope to draw upon my time as a student and as a sports coach to better inform my understanding of these data sets.
 
