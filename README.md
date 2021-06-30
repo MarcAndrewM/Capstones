@@ -7,16 +7,19 @@ I would like to continue examining educational data, since I hope to apply data 
 ### Primary
 **American College/University graduation rates for 2013**  
 **data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1    
-https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset *(this is an abridged version of the ipeds data w/ helpful*
-I would like to examine this 7,000 row by 150 col data set to classify if a college is exceeding 75% gradution rate (grad_rate has continuous data but I would like to convert to True or False > 75%). Since college debt is so high and there is an influx of alternative professional development schools, I am curious how many colleges are "succeeding".   
+https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset *(this is an abridged version of the ipeds data w/ helpful context)*    
+I would like to examine this 7K row by 150 col data set to classify if a college is exceeding 75% gradution rate (grad_rate has continuous data but I would like to convert to True or False > 75%). Since college debt is so high and there is an influx of alternative professional development schools, I am curious how many colleges are "succeeding".   
 
 ### Secondary
 **raw data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1  
 **data layout**: https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset
 
 ### Tertiary
-**raw data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1  
-**data layout**: https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset
+**Fake news**
+**data**: https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/    
+This data has 7K rows and four cols and declares if an artcile is fake. I would like to develop a model to test on real world stories and fakes.
+
+
 
 
 ## Capstone 1
