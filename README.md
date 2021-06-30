@@ -12,7 +12,7 @@ I would like to examine this 7K row by 150 col data set to classify if a college
 
 ### Secondary
 **data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1  
-Placeholder.
+Placeholder to try to find another education data set. Hoping primary proposal works.
 
 ### Tertiary
 **Fake news**
