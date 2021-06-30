@@ -2,7 +2,12 @@
 
 
 ## Capstone 2
-I would like to continue examining educational data. 
+I would like to continue examining educational data.    
+
+### Primary
+**CA SAT scores for 2019-2020**  
+**raw data**: http://www3.cde.ca.gov/researchfiles/satactap/sat20.txt  
+**data layout**: https://www.cde.ca.gov/ds/sp/ai/reclayoutsat20.asp
 
 
 
