@@ -11,8 +11,8 @@ https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset *(t
 I would like to examine this 7K row by 150 col data set to classify if a college is exceeding 75% gradution rate (grad_rate has continuous data but I would like to convert to True or False > 75%). Since college debt is so high and there is an influx of alternative professional development schools, I am curious how many colleges are "succeeding".   
 
 ### Secondary
-**raw data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1  
-**data layout**: https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset
+**data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1  
+Placeholder.
 
 ### Tertiary
 **Fake news**
