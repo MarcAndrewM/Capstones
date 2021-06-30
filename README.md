@@ -1,5 +1,11 @@
 # Capstones
 
+
+## Capstone 2
+I would like to continue examining educational data. 
+
+
+
 ## Capstone 1
 All of the below data sets come from the California Deparment of Education Data and Statistics Division, https://www.cde.ca.gov/ds/. For this capstone, I would like to become familiar with education data sets and better understand how to analyze them. As a California native who volunteers at a high school, I hope to draw upon my time as a student and as a sports coach to better inform my understanding of these data sets.
 
