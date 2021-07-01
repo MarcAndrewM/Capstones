@@ -11,8 +11,9 @@ https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset *(t
 I would like to examine this 7K row by 150 col data set to classify if a college is exceeding 75% gradution rate (grad_rate has continuous data but I would like to convert to True or False > 75%). Since college debt is so high and there is an influx of alternative professional development schools, I am curious how many colleges are "succeeding".   
 
 ### Secondary
-**data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1  
-Placeholder to try to find another education data set. Hoping primary proposal works.
+**Youth Obesity**
+**data**: https://chronicdata.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/svam-8dhg  
+This data set has 300K rows and 35 cols. I would like to look at what factors lead to obesity and make a predicitve model.
 
 ### Tertiary
 **Fake news**
