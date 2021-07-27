@@ -1,5 +1,26 @@
 # Capstones
 
+## <p align="center">Capstone 3</p>
+I will start a budget management job in late September but will continue to coach/mentor a group of 6th-12th graders from an under-resourced school. For capstone three, I would like to continue working on tools that can support the team.
+
+### Primary
+**Recommender for College Exploration/Flask App**  
+**data**: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1    
+https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset     
+Most of the runners I have coached these past eight years rarely consider applying to any school besides a CSU or UC. While these are great options, I feel that the students are limiting their pool of choices and potentially great matches. By creating a recommender that examines college reqs (SAT scores/acceptance rates for "selectivity") and student preferences (distance from home, financial aid, extracurriculars, type of school- tech vs liberal arts), I hope to encourage the runners to examine 10 other options from a list of approx. 2K starting their junior year. To make this interactive, I would utilize Flask and greatly increase my web development skill set in the process.
+
+### Secondary
+**Walmart Sales Forecasting**
+**data**: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting  
+This data set will allow me to increase my understanding of ARIMA, LSTM, Facebook Prophet, and wavenet, which will all help me with my new job. Since there are so many solutions posted though, I feel this is something I can explore during Aug/early Sep on my own.
+
+### Tertiary
+**Career Advice to Professionals in the Field**
+**data**: https://www.kaggle.com/c/data-science-for-good-careervillage/overview    
+This data set is trying to send career advice questions from high schoolers to appropriate mentors. I would need to utilize NLP to categorize the questions into buckets/features and then send to the appropriate mentor.
+    
+<br>
+<br>  
 
 ## <p align="center">Capstone 2</p>
 I would like to continue examining educational data, since I hope to apply data science in the education or non-profit space.
